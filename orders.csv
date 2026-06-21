@@ -1,0 +1,5 @@
+order_id,timestamp,customer,item,category,unit_price,quantity,line_total,subtotal,tax,grand_total
+CC20260621200835265,2026-06-21 20:08:35,Guest,Espresso,Coffee,120.00,1,120.00,300.00,15.00,315.00
+CC20260621200835265,2026-06-21 20:08:35,Guest,Cappuccino,Coffee,180.00,1,180.00,300.00,15.00,315.00
+CC20260621200925930,2026-06-21 20:09:25,Guest,Tiramisu,Desserts,240.00,1,240.00,420.00,21.00,441.00
+CC20260621200925930,2026-06-21 20:09:25,Guest,Iced Coffee,Cold Beverages,180.00,1,180.00,420.00,21.00,441.00
